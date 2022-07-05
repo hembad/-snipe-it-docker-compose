@@ -1,2 +1,2 @@
-# -snipe-it-docker-compose
+# snipe-it-docker-compose
 Snipe-it Docker Compose Setup
